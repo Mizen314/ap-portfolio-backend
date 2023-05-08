@@ -1,4 +1,3 @@
-
 FROM amazoncorretto:17
 
 MAINTAINER mizen314
